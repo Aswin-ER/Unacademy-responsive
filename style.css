@@ -1,0 +1,118 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #fcfcfc;
+    overflow-x: hidden;
+}
+
+.section-1{
+    width: 100%;
+    background-image: url("assests/image.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: #fff;
+}
+
+.section-1 h2{
+    background: none;
+    font-weight: 600;
+    font-size: 2em;
+    margin-bottom: 1rem;
+    margin-left: 2.9rem;
+    line-height: 1.2em;
+}
+
+.sectioncenter{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.intro{
+    font-size: 0.75rem;
+    margin: 0px 4px 0px 0px;
+    color: rgb(45, 129, 247);
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.live{
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 120%;
+}
+
+.text{
+    font-size: 1rem;
+    line-height: 150%;
+    color: #3c3c3c;
+}
+
+.learning{
+    font-size: 2.5rem;
+    line-height: 120%;
+    font-weight: bold;
+    color: #3c3c3c;
+}
+
+.section-4{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.section-2{
+    background-color: #fff;
+}
+
+.section-5{
+    background-color: #fff;
+}
+
+.color{
+    line-height: 150%;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+@media only screen and (max-width: 600px) {
+    .section-1 {
+        background-size: contain;
+    }
+   
+  }
+
+  @media only screen and (min-width: 600px) {
+    .section-1{
+        background-size: contain;
+    }
+  }
+
+  @media only screen and (min-width: 768px) {
+    .section-1{
+        background-size: contain;
+    }
+  }
+
+  @media only screen and (min-width: 992px) {
+    .section-1{
+        background-size: contain;
+    }
+  }
+  
+  @media only screen and (min-width: 1200px) {
+    .section-1{
+        background-size: contain;
+    }
+  }
+
+  
+  
+
+
+
+
+
