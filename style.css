@@ -78,37 +78,6 @@ body{
     font-weight: normal;
 }
 
-@media only screen and (max-width: 600px) {
-    .section-1 {
-        background-size: contain;
-    }
-   
-  }
-
-  @media only screen and (min-width: 600px) {
-    .section-1{
-        background-size: contain;
-    }
-  }
-
-  @media only screen and (min-width: 768px) {
-    .section-1{
-        background-size: contain;
-    }
-  }
-
-  @media only screen and (min-width: 992px) {
-    .section-1{
-        background-size: contain;
-    }
-  }
-  
-  @media only screen and (min-width: 1200px) {
-    .section-1{
-        background-size: contain;
-    }
-  }
-
   
   
 
